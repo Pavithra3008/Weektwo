@@ -58,7 +58,7 @@ public class FirstQuestion {
 
 
 		driver.findElement(By.name("submit")).click();
-		System.out.println("data entered in the application");
+		System.out.println("data entered in the application..");
 		
 		
 	}
